@@ -17,4 +17,4 @@ Este proyecto fue desarrollado como parte del programa **Oracle Next Education (
 4. Se selecciona aleatoriamente un nombre y se muestra el resultado en la página.
 
 ## 🎥 Demostración
-Ahora veremos como funciona la plataforma a través de un video!
+Ahora veremos como funciona la plataforma a través de un video!  [Ver video como funciona](https://www.youtube.com/watch?v=GX-fL7DAAiY)
